@@ -1,3 +1,4 @@
 def reverse_each_word(phrase)
-  swap = phrase
+  swap = phrase.split
+  
 end
