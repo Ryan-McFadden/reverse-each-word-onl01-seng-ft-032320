@@ -3,5 +3,5 @@ def reverse_each_word(phrase)
   final = swap.collect do |word|
     word.reverse
   end
-  fianl.join
+  final.join
 end
