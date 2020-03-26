@@ -4,4 +4,5 @@ def reverse_each_word(phrase)
     word.reverse
     return swap
   end
+  return swap
 end
